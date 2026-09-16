@@ -41423,7 +41423,7 @@ if(o<p){j=i.w6(o)
 if(r.$2(a,j)>0){s[b]=j
 b=o}}s[b]=a}}
 A.Iw.prototype={
-F(a){return new A.z7(B.HJ,"CompraYA",A.um(B.Bg,null,null,B.eT,!0),!1,null)}}
+F(a){return new A.z7(B.HJ,"Compra YA",A.um(B.Bg,null,null,B.eT,!0),!1,null)}}
 A.di.prototype={}
 A.I6.prototype={
 F(a){var s=null,r=this.c.length
